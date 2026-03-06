@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a sophomore undergraduate in the ACMClass of 2023 at [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I am currently an undergraduate research intern. My research interests include, but are not limited to, Artificial Intelligence.
+I'm a junior undergraduate in the ACM Honors Class of 2023 at [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
+
+I am currently a research intern at the [Generative Artificial Intelligence Research Lab (GAIR)](https://plms.ai/), advised by Prof. Pengfei Liu. My research focuses on Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs).
